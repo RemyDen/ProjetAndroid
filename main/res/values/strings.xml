@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Planet2</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_text">Nom Planette :</string>
+    <string name="title_activity_edit_planet">EditPlanetActivity</string>
+    <string name="title_activity_essai">Essai</string>
+    <string name="NOM_DB">db_planete3</string>
+</resources>
